@@ -1,0 +1,13 @@
+<{>
+<str, person>
+<:>
+<{>
+<str, firstName>
+<:>
+<str, ben>
+<,>
+<str, lastName>
+<:>
+<str, strickland>
+<}>
+<}>

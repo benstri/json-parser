@@ -1,0 +1,9 @@
+<{>
+<str, age>
+<:>
+<num, 19>
+<,>
+<str, city>
+<:>
+<str, Halifax>
+<}>
