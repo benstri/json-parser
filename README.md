@@ -77,7 +77,7 @@ Specific Types:
 1.	Malformed number (starts/ends with a dot)
 2.	Empty string
 3.	Number starts with + or leading 0
-4/7.	Reserved words used as strings (e.g. "true")
+4.	Reserved words used as strings (e.g. "true")
 5.	Duplicate keys in objects
 6.	Mixed types in arrays
 
